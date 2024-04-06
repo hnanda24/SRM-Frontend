@@ -38,8 +38,8 @@ const Forces = () => {
     return (
 
         <>
-            <div className="text-yellow-700">{message}</div>
-            <form onSubmit={handleSubmit} className="flex flex-col justify-center items-center h-screen bg-yellow-200">
+            <div className="">{message}</div>
+            <form onSubmit={handleSubmit} className="flex flex-col justify-center items-center h-screen ">
                 <input
                     type='text'
                     placeholder='Enter Batallion Name'
