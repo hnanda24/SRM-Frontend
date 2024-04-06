@@ -12,11 +12,7 @@ const Navbar = () => {
         </div>
         
         <div className="flex justify-between items-center gap-10">
-            <div>Request</div>
-
-            <div>Add Crate</div>
-
-            <div>Add Battalion</div>
+          
         </div>
         
       </nav>
